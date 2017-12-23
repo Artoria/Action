@@ -1,5 +1,5 @@
 # Action
-don't make false *promises*, take actions and make [donations](https://rgss3.github.io/unipay)
+don't make false ~~*Promises*~~, take Actions and make [donations](https://rgss3.github.io/unipay)
 
 
 ```javascript
